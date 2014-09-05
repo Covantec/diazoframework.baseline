@@ -8,7 +8,7 @@
       <link href="/++framework++baseline/css/compressed/baseline.compress.css" 
             type="text/css" rel="stylesheet" media="screen"/>
       <script type="text/javascript" 
-              src="/++theme++baseline-example/html5.js"></script>
+              src="/++theme++baseline/html5.js"></script>
   </after>
 
 </rules>
