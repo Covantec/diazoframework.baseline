@@ -8,6 +8,8 @@ setup(name='diazoframework.baseline',
       description="A Diazo framework implementation for Baseline CSS",
       long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
+      # Get more strings from
+      # https://pypi.org/pypi?:action=list_classifiers
       classifiers=[
         "Development Status :: 3 - Alpha",
         "Environment :: Web Environment",
