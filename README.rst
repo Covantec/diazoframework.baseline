@@ -6,7 +6,7 @@ diazoframework.baseline
 Introduction
 ============
 
-``diazoframework.skeleton`` package provides the diazo framework implementation of the 
+``diazoframework.baseline`` package provides the diazo framework implementation of the 
 `Baseline CSS framework`_ using the **theming** and **packaging** features available in the 
 `diazoframework.plone`_ core package for create `Diazo`_ theme using `plone.app.theming`_.
 
